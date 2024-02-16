@@ -2,7 +2,7 @@
 <h3 align="center">A passionate Junior Developer from Indonesia</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/730703/screenshots/6581243/avento.gif" >
 
-# 💫 About Me:
+# 
 👯 I’m looking to collaborate on Web Development<br>🤝 I’m looking for help with WebDev<br>🌱 I’m currently learning MERN, NEXT JS & Laravel<br>💬 Ask me about react and tailwind<br>⚡ Fun fact I am try hard learn code everyday
 
 
